@@ -1,0 +1,4 @@
+# Archivos y carpetas que NO deben subirse
+.idea/
+__pycache__/
+*.pyc
